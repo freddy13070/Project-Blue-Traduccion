@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REFERENCE" version="">
+  <row id="01AB955C7206466897B5614D5EA6F66F" trl="Y">
+    <value column="Name" isTrl="N" original="Occupation">Occupation</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="12945FAECED74BCDB0F76BF4D51FA70A" trl="Y">
+    <value column="Name" isTrl="Y" original="Contents of projects">Contenidos de proyectos</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="963F8CD078744BFAB1324476CDC2D38D" trl="N">
+    <value column="Name" isTrl="N" original="Genre of proyect">Genre of proyect</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F22AE08D0A8C44439C00E87854DDD8FE" trl="N">
+    <value column="Name" isTrl="N" original="Medio de recepcion">Medio de recepcion</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

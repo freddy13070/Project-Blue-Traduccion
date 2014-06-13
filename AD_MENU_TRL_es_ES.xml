@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MENU" version="">
+  <row id="A0E8D1125B5B40A38D9CC70131D9FCFA" trl="Y">
+    <value column="Name" isTrl="Y" original="Registration of project">Registro de proyecto</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

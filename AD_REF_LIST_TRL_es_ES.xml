@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REF_LIST" version="">
+  <row id="2C9A5120EB1E43F7BCA8B3161E348793" trl="Y">
+    <value column="Name" isTrl="Y" original="Writer">Escritor</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4736C1D9F6DB4E35AA6A2600A5A7EE06" trl="Y">
+    <value column="Name" isTrl="Y" original="Infantile">Infantil</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4DBBB54F014440F4A150B4DFD148A256" trl="Y">
+    <value column="Name" isTrl="Y" original="Physical">Fisico</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="78084EEF646946C8992BF7C51FA65FF3" trl="Y">
+    <value column="Name" isTrl="N" original="Telenovela">Telenovela</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="7B639B8F35854CD0A6755F24444A4729" trl="Y">
+    <value column="Name" isTrl="Y" original="Comedy">Comedia</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="8C65F54AB1B54734B7519934FB1D74A8" trl="Y">
+    <value column="Name" isTrl="Y" original="Screenwriter">Guionista</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="AF54283C39B243BA9AF1388C39BB6226" trl="Y">
+    <value column="Name" isTrl="N" original="Original">Original</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="AF82FC961520436CB94D4E5992B54778" trl="Y">
+    <value column="Name" isTrl="Y" original="Juvenile">Juvenil</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="BF9E6AEE5F75439F979A31AB2272968F" trl="Y">
+    <value column="Name" isTrl="Y" original="Adaptation">Adaptación</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C387E475FFAA43EEB4A806BEB271E869" trl="Y">
+    <value column="Name" isTrl="Y" original="Thriller">Novela de suspenso</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="CC948985B1C14A88A88D5711AA839843" trl="Y">
+    <value column="Name" isTrl="Y" original="Police">Policiaco</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D25B26AA5CA7484BB7B66E7068EE6BAD" trl="Y">
+    <value column="Name" isTrl="Y" original="Electronic">Electrónico</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D562E6876D9C41B191B0D2CDD9361C5E" trl="Y">
+    <value column="Name" isTrl="N" original="Drama">Drama</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="DE364F5C33204255AE80AFD74680283A" trl="Y">
+    <value column="Name" isTrl="Y" original="Game show">Demostración de juego</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="FCB728B7E8DD437281E1A9FBE2B93C69" trl="Y">
+    <value column="Name" isTrl="N" original="Factual">Factual</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
